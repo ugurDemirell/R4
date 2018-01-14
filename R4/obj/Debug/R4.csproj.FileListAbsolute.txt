@@ -1,0 +1,9 @@
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\bin\Debug\R4.exe.config
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\bin\Debug\R4.exe
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\bin\Debug\R4.pdb
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\obj\Debug\R4.csprojResolveAssemblyReference.cache
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\obj\Debug\R4.MainForm.resources
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\obj\Debug\R4.Properties.Resources.resources
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\obj\Debug\R4.csproj.GenerateResource.Cache
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\obj\Debug\R4.exe
+C:\Dosyalar\MVC\Basvurular\12Con\R4\R4\obj\Debug\R4.pdb
